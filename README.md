@@ -19,4 +19,4 @@ ubuntu：[Install moonlight](https://moonlight-stream.org/)
 
 <img src="effect drawing.jpg" alt="Main View" width="960" height="540">
 
-<img src="effect drawing1.jpg" alt="Main View" width="960" height="540">
+<img src="effect drawing2.jpg" alt="Main View" width="960" height="540">
