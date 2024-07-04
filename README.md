@@ -1,4 +1,4 @@
-# instructions
+# instructions(2GPU|no write memory|safety)
 
 1、Your computer requires two GPUs. One of the GPUs can be an integrated graphics card.
 
