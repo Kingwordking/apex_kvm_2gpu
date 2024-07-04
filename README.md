@@ -7,7 +7,9 @@
 3、Enable the Ubuntu system to display the screen of the Windows virtual machine  
 
 1）moonlight
+
 windwos：[Install Sunshine](https://github.com/LizardByte/Sunshine)
+
 ubuntu：[Install moonlight](https://moonlight-stream.org/)
 
 2）lookingglass
