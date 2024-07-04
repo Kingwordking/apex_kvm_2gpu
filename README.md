@@ -16,3 +16,7 @@ ubuntu：[Install moonlight](https://moonlight-stream.org/)
 4、Connect Ubuntu to Windows based on the above two methods.  
 
 5、Ubuntu run sudo ./apex_dma
+
+<img src="effect drawing.jpg" alt="Main View" width="960" height="540">
+
+<img src="effect drawing1.jpg" alt="Main View" width="960" height="540">
