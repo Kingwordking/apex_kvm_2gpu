@@ -1,6 +1,6 @@
 # instructions(2GPU|no write memory|safety)
 
-1、Your computer requires two GPUs. One of the GPUs can be an integrated graphics card.
+1、Your computer requires two GPUs. One of the GPUs can be an integrated graphics card. Ubuntu need use X11 desktop.
 
 2、Direct the mainly used graphics card into the virtual machine.  
 
