@@ -6,7 +6,9 @@
 1）moonlight
 windwos：[Install Sunshine](https://github.com/LizardByte/Sunshine)
 ubuntu：[Install moonlight](https://moonlight-stream.org/)
+
 2）lookingglass
 [lookingglass](https://looking-glass.io/)
+
 4、Connect Ubuntu to Windows based on the above two methods.  
 5、Ubuntu run sudo ./apex_dma
