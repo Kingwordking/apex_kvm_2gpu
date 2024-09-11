@@ -21,6 +21,10 @@ ubuntu：[Install moonlight](https://moonlight-stream.org/)
 5、Ubuntu run sudo ./apex_dma
 
 6、esp overlay |  move ubuntu mouse aim
+<img src="effect drawing3.jpg" alt="Main View" width="960" height="540">
+
+<img src="effect drawing4.jpg" alt="Main View" width="960" height="540">
+
 
 <img src="effect drawing.jpg" alt="Main View" width="960" height="540">
 
