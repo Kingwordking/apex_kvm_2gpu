@@ -18,14 +18,6 @@ ubuntu：[Install moonlight](https://moonlight-stream.org/)
 
 4、Connect Ubuntu to Windows based on the above two methods.  
 
-5、Ubuntu run sudo ./apex_dma
+5、Ubuntu run sudo ./main 1
 
 6、esp overlay |  move ubuntu mouse aim
-<img src="effect drawing3.jpg" alt="Main View" width="960" height="540">
-
-<img src="effect drawing4.jpg" alt="Main View" width="960" height="540">
-
-
-<img src="effect drawing.jpg" alt="Main View" width="960" height="540">
-
-<img src="effect drawing2.jpg" alt="Main View" width="960" height="540">
